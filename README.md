@@ -11,7 +11,8 @@ Dieses Repository enthält meine Notizen zur Vorbereitung auf die Abschlussprüf
     - Anwendungsfalldiagramme (Use-Case-Diagramme)
     - Klassendiagramme
     - Sequenzdiagramme
-2. **Programmierung und Algorithmen**:
+    - Zustandsdiagramm
+1. **Programmierung und Algorithmen**:
     
     - Entwicklung von Pseudocode oder Struktogrammen für spezifische Problemstellungen
     - Objektorientierte Programmierung (OOP) und deren Umsetzung
