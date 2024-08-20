@@ -12,10 +12,13 @@ Dieses Repository enthält meine Notizen zur Vorbereitung auf die Abschlussprüf
     - Klassendiagramme
     - Sequenzdiagramme
     - Zustandsdiagramm
-1. **Programmierung und Algorithmen**:
+2. **Programmierung und Algorithmen**:
     
     - Entwicklung von Pseudocode oder Struktogrammen für spezifische Problemstellungen
     - Objektorientierte Programmierung (OOP) und deren Umsetzung
+    - Entwurfsmuster:
+	    - **MVC-Pattern (Model-View-Controller)**: Strukturierung von Anwendungen in Model, View und Controller.
+	    - **Observer-Pattern**: Implementierung von Benachrichtigungssystemen bei Zustandsänderungen.
     - Algorithmen zur Datenverarbeitung und -analyse
 3. **SQL und Datenbankmodellierung**:
     
