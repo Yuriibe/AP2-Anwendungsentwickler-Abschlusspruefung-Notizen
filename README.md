@@ -25,14 +25,10 @@ Dieses Repository enthält meine Notizen zur Vorbereitung auf die Abschlussprüf
     - Erstellen und Optimieren von relationalen Datenbankmodellen (3. Normalform)
     - Formulieren von SQL-Abfragen (z. B. JOINs, Aggregatfunktionen, WHERE-Klauseln)
     - Normalisierung und Datenbankentwurf
-4. **Prozeduren und Funktionen**:
-    
-    - Entwicklung von prozeduralen Lösungen, oft in Verbindung mit vorgegebenen Funktionen und Methoden
-    - Pseudocode-Umsetzung von Prozessen (z. B. Entgeltberechnungen, Datenverarbeitung)
-5. **Projektplanung und -strukturierung**:
+4. **Projektplanung und -strukturierung**:
     
     - Erstellung von Projektstrukturplänen
-    - Planung und Umsetzung von IT-Projekten in Phasen
+    - Netzplan
 
 ---
 

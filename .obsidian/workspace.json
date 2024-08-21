@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1. UML-Diagramme/Use-Case-Diagramme/Use-Case-Diagramme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1. UML-Diagramme/Use-Case-Diagramme/Use-Case-Diagramme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1. UML-Diagramme/Use-Case-Diagramme/Use-Case-Diagramme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1. UML-Diagramme/Use-Case-Diagramme/Use-Case-Diagramme.md"
               }
             }
           }
@@ -148,15 +148,42 @@
   },
   "active": "c4a735d905cea021",
   "lastOpenFiles": [
-    "Anhänge/Struktogramm.pdf",
-    "Anhänge/SQL-Syntax-2.pdf",
-    "Anhänge/SQL-Syntax-1.pdf",
-    "Anhänge/Pseudocode.pdf",
-    "Anhänge/Programmablaufplan.pdf",
-    "Anhänge/Datenbankmodell-UML-Aktionsdiagramm.pdf",
+    "1. UML-Diagramme/UML-Diagramme.md",
+    "2. Programmierung und Algorithmen/Pseudocode/Pseudocode.md",
+    "2. Programmierung und Algorithmen/Pseudocode/Pseudocode-cheat-sheet-A4.pdf.md",
+    "3. SQL und Datenbankmodellierung/SQL/Übungsaufgaben.md",
+    "3. SQL und Datenbankmodellierung/SQL/Tabellenstrukturen.md",
+    "3. SQL und Datenbankmodellierung/SQL/Joins.md",
+    "3. SQL und Datenbankmodellierung/SQL/Grundlegende Abfragen (SELECT).md",
+    "3. SQL und Datenbankmodellierung/SQL/Aliase.md",
+    "4. Projektplanung und -strukturierung/Netzplan.md",
     "README.md",
-    "Anhänge",
-    "Aufbau.md",
-    "Welcome.md"
+    "2. Programmierung und Algorithmen",
+    "Neuer Ordner/Diagramme/Arten von Diagrammen.md",
+    "Neuer Ordner/Diagramme/Entity Relationship Model.md",
+    "Neuer Ordner/Diagramme/Struktogramme.md",
+    "Neuer Ordner/Diagramme/Use-Case Diagramme.md",
+    "Neuer Ordner/Diagramme/Zustandsdiagramme.md",
+    "Neuer Ordner/Interessante prompts.md",
+    "Neuer Ordner/Speicherplatz Verbrauch berechnen.md",
+    "Neuer Ordner/Prompts.md",
+    "Bilder/Pasted image 20240806103806.png",
+    "Bilder/Pasted image 20240806103837.png",
+    "4. Projektplanung und -strukturierung",
+    "3. SQL und Datenbankmodellierung/SQL/SQL Grundlagen.md",
+    "3. SQL und Datenbankmodellierung/SQL/Datenmanipulation.md",
+    "1. UML-Diagramme/Use-Case-Diagramme/Use-Case-Diagramme.md",
+    "3. SQL und Datenbankmodellierung/SQL/Unterabfragen (Subqueries).md",
+    "3. SQL und Datenbankmodellierung/SQL",
+    "3. SQL und Datenbankmodellierung",
+    "Neuer Ordner/Notizen 2021.md",
+    "Neuer Ordner/Notizen 2020.md",
+    "Neuer Ordner/Wirtschaft",
+    "3. SQL und Datenbankmodellierung/SQL",
+    "2. Programmierung und Algorithmen/Pseudocode/Pseudocode-cheat-sheet-A4.docx",
+    "2. Programmierung und Algorithmen/Pseudocode",
+    "Neuer Ordner/Nachschlagen",
+    "Neuer Ordner/Diagramme",
+    "Aufbau.md"
   ]
 }

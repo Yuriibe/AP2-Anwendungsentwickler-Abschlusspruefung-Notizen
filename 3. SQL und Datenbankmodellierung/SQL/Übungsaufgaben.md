@@ -1,0 +1,17 @@
+### Übungsaufgaben
+- **Grundlegende Abfragen:**
+    - Erstelle eine Abfrage, die alle Daten aus der Tabelle `Mitarbeiter` anzeigt.
+    - Erstelle eine Abfrage, die nur die Namen und Gehälter der Mitarbeiter anzeigt, die mehr als 3000 Euro verdienen.
+    - Erstelle eine Abfrage, die die Mitarbeiter nach ihrem Einstellungsdatum sortiert.
+- **Datenmanipulation:**
+     - Füge einen neuen Mitarbeiter in die Tabelle `Mitarbeiter` ein.
+    - Aktualisiere das Gehalt eines Mitarbeiters mit der ID 5 auf 4000 Euro.
+    - Lösche alle Mitarbeiter, die vor dem Jahr 2000 eingestellt wurden.
+- **Tabellenstrukturen:**
+     - Erstelle eine neue Tabelle `Abteilungen` mit den Spalten `AbteilungsID` (INT), `Abteilungsname` (VARCHAR) und `Standort` (VARCHAR).
+    - Füge eine neue Spalte `Geburtsdatum` (DATE) zur Tabelle `Mitarbeiter` hinzu.
+    - Lösche die Tabelle `Abteilungen`.
+- **Joins:**
+     - Erstelle eine Abfrage, die alle Mitarbeiter und deren Abteilungsnamen anzeigt (verknüpfe die Tabellen `Mitarbeiter` und `Abteilungen`).
+- **Unterabfragen:**
+     - Erstelle eine Abfrage, die die Namen der Mitarbeiter anzeigt, die in der gleichen Abteilung wie 'Hans Müller' arbeiten.
