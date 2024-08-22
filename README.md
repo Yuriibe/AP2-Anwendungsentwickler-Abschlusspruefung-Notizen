@@ -39,3 +39,10 @@ Dieses Repository enthält meine Notizen zur Vorbereitung auf die Abschlussprüf
 - **SQL-Abfragen**: Formulierung und Interpretation komplexer SQL-Abfragen.
 - **Datenbankaufbau**: Modellieren von Datenbanken und Entwerfen relationaler Strukturen nach spezifischen Anforderungen.
 - **Projektplanung**: Strukturieren und Darstellen von Projektschritten sowie die Zuordnung von Aufgaben in einem Projekt.
+---
+
+## 🔗 Nützliche Links
+[Verordnung über die Berufsausbildung zum Fachinformatiker und zur Fachinformatikerin (Fachinformatikerausbildungsverordnung - FIAusbV):](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html)
+
+
+

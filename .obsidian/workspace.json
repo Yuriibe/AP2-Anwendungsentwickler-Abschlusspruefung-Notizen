@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. UML-Diagramme/Use-Case-Diagramme/Weitere Nützliche Ressourcen.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. UML-Diagramme/Use-Case-Diagramme/Weitere Nützliche Ressourcen.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. UML-Diagramme/Use-Case-Diagramme/Weitere Nützliche Ressourcen.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. UML-Diagramme/Use-Case-Diagramme/Weitere Nützliche Ressourcen.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "deab1a279ebf4b96",
+  "active": "334c379000abdc21",
   "lastOpenFiles": [
+    "1. UML-Diagramme/Use-Case-Diagramme/Weitere Nützliche Ressourcen.md",
     "1. UML-Diagramme/Use-Case-Diagramme/Aufgaben/blatt04.pdf",
     "1. UML-Diagramme/Use-Case-Diagramme/Aufgaben/Blatt04_loesung.pdf",
     "1. UML-Diagramme/Use-Case-Diagramme/Aufgaben",
-    "1. UML-Diagramme/Use-Case-Diagramme/Weitere Nützliche Ressourcen.md",
     "1. UML-Diagramme/Use-Case-Diagramme/Theorie/Use-Case-Diagramme.md",
     "1. UML-Diagramme/Use-Case-Diagramme/Theorie",
     "README.md",
