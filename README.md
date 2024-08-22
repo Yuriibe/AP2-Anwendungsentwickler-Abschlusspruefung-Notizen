@@ -43,6 +43,6 @@ Dieses Repository enthält meine Notizen zur Vorbereitung auf die Abschlussprüf
 
 ## 🔗 Nützliche Links
 [Ausbildungsrahmenplan über die Berufsausbildung zum Fachinformatiker und zur Fachinformatikerin](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html)
-
+[Fachinformatiker Prüfungsvorbereitung](https://fachinformatikerpruefungsvorbereitung.de)
 
 
