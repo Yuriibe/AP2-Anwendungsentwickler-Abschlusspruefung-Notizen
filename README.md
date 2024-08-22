@@ -42,7 +42,7 @@ Dieses Repository enthält meine Notizen zur Vorbereitung auf die Abschlussprüf
 ---
 
 ## 🔗 Nützliche Links
-[Verordnung über die Berufsausbildung zum Fachinformatiker und zur Fachinformatikerin (Fachinformatikerausbildungsverordnung - FIAusbV):](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html)
+[Ausbildungsrahmenplan über die Berufsausbildung zum Fachinformatiker und zur Fachinformatikerin](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html)
 
 
 
