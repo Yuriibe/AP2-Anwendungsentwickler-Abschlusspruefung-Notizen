@@ -43,7 +43,7 @@ Bei normalfolge:
 - **Bauprojekt**: Ein Netzplan könnte die Aktivitäten eines Bauprojekts zeigen, wie z.B. "Grundstückskauf", "Baugenehmigung einholen", "Fundament legen", "Wände errichten", "Dach decken". Abhängigkeiten zwischen den Aktivitäten würden verdeutlichen, dass das Dach erst gedeckt werden kann, wenn die Wände errichtet sind.
 - **Eventplanung**: Bei der Planung einer Konferenz könnte ein Netzplan die Aufgaben "Auswahl des Veranstaltungsorts", "Einladung der Sprecher", "Marketing", "Ticketverkauf", "Logistik" und "Durchführung der Veranstaltung" umfassen. Der Netzplan hilft sicherzustellen, dass jede Aufgabe rechtzeitig und in der richtigen Reihenfolge durchgeführt wird.
 
-### 4. Empfohlene Ressourcen wie Videos, Artikel oder Übungen, um mein Wissen zu Netzplänen zu vertiefen
+### 4. Empfohlene Ressourcen wie Videos, Artikel oder Übungen
 
 - **Videos**:
     - [Project Management - Network Diagram (YouTube)](https://www.youtube.com/watch?v=I9jd0jgVvg0)

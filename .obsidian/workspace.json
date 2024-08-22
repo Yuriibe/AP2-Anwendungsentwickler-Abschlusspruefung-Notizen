@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "29bac0fd4e6c3cef",
+        "id": "88c083bc9b5fe59e",
         "type": "tabs",
         "children": [
           {
-            "id": "c4a735d905cea021",
+            "id": "334c379000abdc21",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,18 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4a735d905cea021",
+  "active": "334c379000abdc21",
   "lastOpenFiles": [
+    "().md",
+    "1. UML-Diagramme/Use-Case-Diagramme/Use-Case-Diagramme.md",
+    "4. Projektplanung und -strukturierung/Netzplan.md",
+    "3. SQL und Datenbankmodellierung/SQL/Aliase.md",
+    "Pasted image 20240822103153.png",
     "1. UML-Diagramme/UML-Diagramme.md",
+    "README.md",
+    "3. SQL und Datenbankmodellierung/SQL/Unterabfragen (Subqueries).md",
+    "Bilder/Pasted image 20240806103806.png",
     "2. Programmierung und Algorithmen/Pseudocode/Pseudocode.md",
     "2. Programmierung und Algorithmen/Pseudocode/Pseudocode-cheat-sheet-A4.pdf.md",
     "3. SQL und Datenbankmodellierung/SQL/Übungsaufgaben.md",
     "3. SQL und Datenbankmodellierung/SQL/Tabellenstrukturen.md",
     "3. SQL und Datenbankmodellierung/SQL/Joins.md",
     "3. SQL und Datenbankmodellierung/SQL/Grundlegende Abfragen (SELECT).md",
-    "3. SQL und Datenbankmodellierung/SQL/Aliase.md",
-    "4. Projektplanung und -strukturierung/Netzplan.md",
-    "README.md",
     "2. Programmierung und Algorithmen",
     "Neuer Ordner/Diagramme/Arten von Diagrammen.md",
     "Neuer Ordner/Diagramme/Entity Relationship Model.md",
@@ -167,13 +172,10 @@
     "Neuer Ordner/Interessante prompts.md",
     "Neuer Ordner/Speicherplatz Verbrauch berechnen.md",
     "Neuer Ordner/Prompts.md",
-    "Bilder/Pasted image 20240806103806.png",
     "Bilder/Pasted image 20240806103837.png",
     "4. Projektplanung und -strukturierung",
     "3. SQL und Datenbankmodellierung/SQL/SQL Grundlagen.md",
     "3. SQL und Datenbankmodellierung/SQL/Datenmanipulation.md",
-    "1. UML-Diagramme/Use-Case-Diagramme/Use-Case-Diagramme.md",
-    "3. SQL und Datenbankmodellierung/SQL/Unterabfragen (Subqueries).md",
     "3. SQL und Datenbankmodellierung/SQL",
     "3. SQL und Datenbankmodellierung",
     "Neuer Ordner/Notizen 2021.md",

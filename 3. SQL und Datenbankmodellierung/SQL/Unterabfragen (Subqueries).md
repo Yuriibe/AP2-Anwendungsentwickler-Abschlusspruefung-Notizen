@@ -1,4 +1,4 @@
-### Generelle Erklärung
+2### Generelle Erklärung
 Unterabfragen sind Abfragen die innerhalb einer anderen SQL-Abfrage verschachtelt sind.
 
 **1. Unterabfragen in SELECT:**

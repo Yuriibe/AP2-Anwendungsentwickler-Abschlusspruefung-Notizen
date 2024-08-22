@@ -1,4 +1,4 @@
-### 1. Eine tiefgehende Erklärung zu UML-Diagrammen
+### 1. Was sind UML-Diagrammen
 
 Unified Modeling Language (UML) ist eine standardisierte Modellierungssprache, die hauptsächlich in der Softwareentwicklung verwendet wird, um Systeme zu visualisieren, zu spezifizieren, zu konstruieren und zu dokumentieren. UML bietet eine Vielzahl von Diagrammtypen, die verschiedene Aspekte eines Systems darstellen, wie zum Beispiel seine Struktur und sein Verhalten. UML-Diagramme sind essentiell, um komplexe Softwarearchitekturen verständlich und übersichtlich darzustellen, was die Kommunikation zwischen Entwicklern und anderen Stakeholdern erleichtert.
 
