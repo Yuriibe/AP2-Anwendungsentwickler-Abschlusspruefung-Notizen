@@ -16,7 +16,7 @@ Use-Case-Diagramme eignen sich ideal für folgende Zwecke:
 
 ### Wesentliche Bestandteile eines Use-Case-Diagramms
 
-1. **Akteure (Actors)**: Sind Benutzer oder Andere Systeme, die mit dem System arbeiten. Ein Beispiel wäre ein "Kunde", der auf einer Website einkauft.
+1. **Akteure (Actors)**: Sind Benutzer oder andere Systeme, die mit dem System arbeiten. Ein Beispiel wäre ein "Kunde", der auf einer Website einkauft.
 2. **Use Cases**: Beschreiben, was das System tun soll, z.B. "Produkt kaufen", oder "Nutzer Registrieren".
 3. **Verbindungen**: Linien Verbinden die Akteure mit den Use Cases. Diese zeigen, Welche Akteure welche Aktionen ausführen.
 4.  **Systemgrenze**: Ein Rechteck um die Use Cases zeigt an, was zum System gehört und was nicht
@@ -24,9 +24,8 @@ Use-Case-Diagramme eignen sich ideal für folgende Zwecke:
 ### Beispiel
 
 Online-Shop-System:
-
 - **Akteure:** Kunde, Administrator
-- **Use Cases:** "Produkt suchen", "Produkt kaufen", "Benutzer registrieren", "Benutzer verwalten"
+- **Use Cases:** "Produkt suchen", "Produkt kaufen", "registrieren", "Benutzer verwalten"
 - **Verbindungen:** Der Kunde kann "Produkt suchen", "Produkt kaufen" und sich "registrieren". Der Administrator kann "Benutzer verwalten".
 ### Empfohlene Ressourcen wie Videos, Artikel oder Übungen
 

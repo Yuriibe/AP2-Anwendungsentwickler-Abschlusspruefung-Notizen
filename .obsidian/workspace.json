@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. UML-Diagramme/Use-Case-Diagramme/Use-Case-Diagramme.md",
+                "file": "1. UML-Diagramme/Use-Case-Diagramme/Weitere Nützliche Ressourcen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. UML-Diagramme/Use-Case-Diagramme/Use-Case-Diagramme.md",
+                "file": "1. UML-Diagramme/Use-Case-Diagramme/Weitere Nützliche Ressourcen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. UML-Diagramme/Use-Case-Diagramme/Use-Case-Diagramme.md",
+                "file": "1. UML-Diagramme/Use-Case-Diagramme/Weitere Nützliche Ressourcen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. UML-Diagramme/Use-Case-Diagramme/Use-Case-Diagramme.md"
+                "file": "1. UML-Diagramme/Use-Case-Diagramme/Weitere Nützliche Ressourcen.md"
               }
             }
           }
@@ -148,14 +148,20 @@
   },
   "active": "deab1a279ebf4b96",
   "lastOpenFiles": [
+    "1. UML-Diagramme/Use-Case-Diagramme/Aufgaben/blatt04.pdf",
+    "1. UML-Diagramme/Use-Case-Diagramme/Aufgaben/Blatt04_loesung.pdf",
+    "1. UML-Diagramme/Use-Case-Diagramme/Aufgaben",
+    "1. UML-Diagramme/Use-Case-Diagramme/Weitere Nützliche Ressourcen.md",
+    "1. UML-Diagramme/Use-Case-Diagramme/Theorie/Use-Case-Diagramme.md",
+    "1. UML-Diagramme/Use-Case-Diagramme/Theorie",
+    "README.md",
+    "Pasted image 20240822103153.png",
+    "Unbenanntes Diagramm.drawio.png",
     "2. Programmierung und Algorithmen/Pseudocode/Pseudocode-cheat-sheet-A4.md",
     "().md",
-    "1. UML-Diagramme/Use-Case-Diagramme/Use-Case-Diagramme.md",
     "4. Projektplanung und -strukturierung/Netzplan.md",
     "3. SQL und Datenbankmodellierung/SQL/Aliase.md",
-    "Pasted image 20240822103153.png",
     "1. UML-Diagramme/UML-Diagramme.md",
-    "README.md",
     "3. SQL und Datenbankmodellierung/SQL/Unterabfragen (Subqueries).md",
     "Bilder/Pasted image 20240806103806.png",
     "2. Programmierung und Algorithmen/Pseudocode/Pseudocode.md",
@@ -179,13 +185,7 @@
     "3. SQL und Datenbankmodellierung/SQL/Datenmanipulation.md",
     "3. SQL und Datenbankmodellierung/SQL",
     "3. SQL und Datenbankmodellierung",
-    "Neuer Ordner/Notizen 2021.md",
-    "Neuer Ordner/Notizen 2020.md",
     "Neuer Ordner/Wirtschaft",
-    "3. SQL und Datenbankmodellierung/SQL",
-    "2. Programmierung und Algorithmen/Pseudocode/Pseudocode-cheat-sheet-A4.docx",
-    "2. Programmierung und Algorithmen/Pseudocode",
-    "Neuer Ordner/Nachschlagen",
-    "Neuer Ordner/Diagramme"
+    "3. SQL und Datenbankmodellierung/SQL"
   ]
 }
