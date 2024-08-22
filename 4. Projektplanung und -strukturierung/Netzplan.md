@@ -46,7 +46,5 @@ Bei normalfolge:
 ### 4. Empfohlene Ressourcen wie Videos, Artikel oder Übungen
 
 - **Videos**:
-    - [Project Management - Network Diagram (YouTube)](https://www.youtube.com/watch?v=I9jd0jgVvg0)
-    - [Critical Path Method (CPM) - Project Management (YouTube)](https://www.youtube.com/watch?v=tJ2k1ZCINxI)
     - [Netzplan einfach erklärt](https://www.youtube.com/watch?v=MnE1kLW3rvs)
     - [Kritischer Pfad, Gesamtpuffer und freier Puffer](https://www.youtube.com/watch?v=kjjN7MDwgf0)
