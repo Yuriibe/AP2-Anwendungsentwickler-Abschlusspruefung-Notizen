@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2. Programmierung und Algorithmen/MVC Pattern/Controller.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2. Programmierung und Algorithmen/MVC Pattern/Controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2. Programmierung und Algorithmen/MVC Pattern/Controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "2. Programmierung und Algorithmen/MVC Pattern/Controller.md"
               }
             }
           }
@@ -148,23 +148,28 @@
   },
   "active": "334c379000abdc21",
   "lastOpenFiles": [
+    "2. Programmierung und Algorithmen/MVC Pattern/View.md",
+    "2. Programmierung und Algorithmen/MVC Pattern/Controller.md",
+    "2. Programmierung und Algorithmen/MVC Pattern/Model.md",
+    "2. Programmierung und Algorithmen/MVC Pattern/MVC.md",
+    "1. UML-Diagramme/UML-Diagramme.md",
+    "2. Programmierung und Algorithmen/Pseudocode/Pseudocode.md",
     "1. UML-Diagramme/Use-Case-Diagramme/Weitere Nützliche Ressourcen.md",
+    "README.md",
+    "2. Programmierung und Algorithmen/MVC Pattern",
     "1. UML-Diagramme/Use-Case-Diagramme/Aufgaben/blatt04.pdf",
     "1. UML-Diagramme/Use-Case-Diagramme/Aufgaben/Blatt04_loesung.pdf",
     "1. UML-Diagramme/Use-Case-Diagramme/Aufgaben",
     "1. UML-Diagramme/Use-Case-Diagramme/Theorie/Use-Case-Diagramme.md",
     "1. UML-Diagramme/Use-Case-Diagramme/Theorie",
-    "README.md",
     "Pasted image 20240822103153.png",
     "Unbenanntes Diagramm.drawio.png",
     "2. Programmierung und Algorithmen/Pseudocode/Pseudocode-cheat-sheet-A4.md",
     "().md",
     "4. Projektplanung und -strukturierung/Netzplan.md",
     "3. SQL und Datenbankmodellierung/SQL/Aliase.md",
-    "1. UML-Diagramme/UML-Diagramme.md",
     "3. SQL und Datenbankmodellierung/SQL/Unterabfragen (Subqueries).md",
     "Bilder/Pasted image 20240806103806.png",
-    "2. Programmierung und Algorithmen/Pseudocode/Pseudocode.md",
     "2. Programmierung und Algorithmen/Pseudocode/Pseudocode-cheat-sheet-A4.pdf.md",
     "3. SQL und Datenbankmodellierung/SQL/Übungsaufgaben.md",
     "3. SQL und Datenbankmodellierung/SQL/Tabellenstrukturen.md",
@@ -178,14 +183,10 @@
     "Neuer Ordner/Diagramme/Zustandsdiagramme.md",
     "Neuer Ordner/Interessante prompts.md",
     "Neuer Ordner/Speicherplatz Verbrauch berechnen.md",
-    "Neuer Ordner/Prompts.md",
     "Bilder/Pasted image 20240806103837.png",
     "4. Projektplanung und -strukturierung",
-    "3. SQL und Datenbankmodellierung/SQL/SQL Grundlagen.md",
-    "3. SQL und Datenbankmodellierung/SQL/Datenmanipulation.md",
     "3. SQL und Datenbankmodellierung/SQL",
     "3. SQL und Datenbankmodellierung",
-    "Neuer Ordner/Wirtschaft",
-    "3. SQL und Datenbankmodellierung/SQL"
+    "Neuer Ordner/Wirtschaft"
   ]
 }
