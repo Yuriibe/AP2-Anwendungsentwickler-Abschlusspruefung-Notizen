@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "334c379000abdc21",
+            "id": "4cec3918f1339953",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Programmierung und Algorithmen/MVC Pattern/Controller.md",
+                "file": "1. UML-Diagramme/Grundlegende Konzepte von UML.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Grundlegende Konzepte von UML"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "0faf88c1ed356ad4",
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Programmierung und Algorithmen/MVC Pattern/Controller.md",
+                "file": "1. UML-Diagramme/Grundlegende Konzepte von UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Grundlegende Konzepte von UML"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Programmierung und Algorithmen/MVC Pattern/Controller.md",
+                "file": "1. UML-Diagramme/Grundlegende Konzepte von UML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Grundlegende Konzepte von UML"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Programmierung und Algorithmen/MVC Pattern/Controller.md"
-              }
+                "file": "1. UML-Diagramme/Grundlegende Konzepte von UML.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Grundlegende Konzepte von UML"
             }
           }
         ]
@@ -146,13 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "334c379000abdc21",
+  "active": "deab1a279ebf4b96",
   "lastOpenFiles": [
-    "2. Programmierung und Algorithmen/MVC Pattern/View.md",
+    "1. UML-Diagramme/UML in der AP Teil 2.md",
+    "1. UML-Diagramme/Grundlegende Konzepte von UML.md",
+    "1. UML-Diagramme/Die Rolle von UML in der Softwareentwicklung.md",
+    "1. UML-Diagramme/Einführung in die Modellierung.md",
+    "1. UML-Diagramme/UML-Diagramme.md",
     "2. Programmierung und Algorithmen/MVC Pattern/Controller.md",
+    "2. Programmierung und Algorithmen/MVC Pattern/View.md",
     "2. Programmierung und Algorithmen/MVC Pattern/Model.md",
     "2. Programmierung und Algorithmen/MVC Pattern/MVC.md",
-    "1. UML-Diagramme/UML-Diagramme.md",
     "2. Programmierung und Algorithmen/Pseudocode/Pseudocode.md",
     "1. UML-Diagramme/Use-Case-Diagramme/Weitere Nützliche Ressourcen.md",
     "README.md",
@@ -179,10 +199,6 @@
     "Neuer Ordner/Diagramme/Arten von Diagrammen.md",
     "Neuer Ordner/Diagramme/Entity Relationship Model.md",
     "Neuer Ordner/Diagramme/Struktogramme.md",
-    "Neuer Ordner/Diagramme/Use-Case Diagramme.md",
-    "Neuer Ordner/Diagramme/Zustandsdiagramme.md",
-    "Neuer Ordner/Interessante prompts.md",
-    "Neuer Ordner/Speicherplatz Verbrauch berechnen.md",
     "Bilder/Pasted image 20240806103837.png",
     "4. Projektplanung und -strukturierung",
     "3. SQL und Datenbankmodellierung/SQL",
