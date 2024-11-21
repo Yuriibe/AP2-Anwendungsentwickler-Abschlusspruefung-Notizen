@@ -47,6 +47,7 @@ Dieses Repository enthält meine Notizen zur Vorbereitung auf die Abschlussprüf
 [Fachinformatiker Prüfungsvorbereitung](https://fachinformatikerpruefungsvorbereitung.de)
 
 [Fachinformatiker.de ](https://www.fachinformatiker.de)
+
 [Ausbildung in der IT](https://ausbildung-in-der-it.de)
 
 
