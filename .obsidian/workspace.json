@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. UML-Diagramme/Grundlegende Konzepte von UML.md",
+                "file": "1. UML-Diagramme/Klassen-Diagramme/Beziehungen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grundlegende Konzepte von UML"
+              "title": "Beziehungen"
             }
           }
         ]
@@ -162,10 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "deab1a279ebf4b96",
+  "active": "4cec3918f1339953",
   "lastOpenFiles": [
-    "1. UML-Diagramme/UML in der AP Teil 2.md",
+    "1. UML-Diagramme/Klassen-Diagramme/Abstrakte Klassen und Schnittstellen.md",
+    "1. UML-Diagramme/Klassen-Diagramme/Aufbau von Klassendiagramme.md",
+    "1. UML-Diagramme/Klassen-Diagramme/Sichtbarkeiten.md",
+    "1. UML-Diagramme/Klassen-Diagramme/Beziehungen.md",
+    "1. UML-Diagramme/Klassen-Diagramme/Hauptelemente von Klassendiagrammen.md",
+    "1. UML-Diagramme/Klassen-Diagramme",
+    "README.md",
     "1. UML-Diagramme/Grundlegende Konzepte von UML.md",
+    "1. UML-Diagramme/UML in der AP Teil 2.md",
     "1. UML-Diagramme/Die Rolle von UML in der Softwareentwicklung.md",
     "1. UML-Diagramme/Einführung in die Modellierung.md",
     "1. UML-Diagramme/UML-Diagramme.md",
@@ -175,7 +182,6 @@
     "2. Programmierung und Algorithmen/MVC Pattern/MVC.md",
     "2. Programmierung und Algorithmen/Pseudocode/Pseudocode.md",
     "1. UML-Diagramme/Use-Case-Diagramme/Weitere Nützliche Ressourcen.md",
-    "README.md",
     "2. Programmierung und Algorithmen/MVC Pattern",
     "1. UML-Diagramme/Use-Case-Diagramme/Aufgaben/blatt04.pdf",
     "1. UML-Diagramme/Use-Case-Diagramme/Aufgaben/Blatt04_loesung.pdf",
@@ -193,16 +199,10 @@
     "2. Programmierung und Algorithmen/Pseudocode/Pseudocode-cheat-sheet-A4.pdf.md",
     "3. SQL und Datenbankmodellierung/SQL/Übungsaufgaben.md",
     "3. SQL und Datenbankmodellierung/SQL/Tabellenstrukturen.md",
-    "3. SQL und Datenbankmodellierung/SQL/Joins.md",
-    "3. SQL und Datenbankmodellierung/SQL/Grundlegende Abfragen (SELECT).md",
     "2. Programmierung und Algorithmen",
-    "Neuer Ordner/Diagramme/Arten von Diagrammen.md",
-    "Neuer Ordner/Diagramme/Entity Relationship Model.md",
-    "Neuer Ordner/Diagramme/Struktogramme.md",
     "Bilder/Pasted image 20240806103837.png",
     "4. Projektplanung und -strukturierung",
     "3. SQL und Datenbankmodellierung/SQL",
-    "3. SQL und Datenbankmodellierung",
-    "Neuer Ordner/Wirtschaft"
+    "3. SQL und Datenbankmodellierung"
   ]
 }
