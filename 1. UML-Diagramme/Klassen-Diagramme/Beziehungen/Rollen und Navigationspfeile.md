@@ -1,0 +1,1 @@
+An den Enden der Assoziationslinien können Rollen angegeben werden, die die Bedeutung der Beziehung für die jeweilige  Klasse beschreiben. Die Pfeilspitzen zeigen die Richtung der Zugriffsmöglichkeit zwischen den Klassen an

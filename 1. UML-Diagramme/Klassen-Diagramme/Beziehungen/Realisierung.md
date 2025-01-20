@@ -1,0 +1,2 @@
+### **Realisierung**
+Eine Realisierung ist eine Beziehung zwischen einer Klasse und einer Schnittstelle, implementieren. Sie wird durch eine gestrichelte Linie mit einer leeren Pfeilspitze von der Klasse zur Schnittstelle dargestellt.
