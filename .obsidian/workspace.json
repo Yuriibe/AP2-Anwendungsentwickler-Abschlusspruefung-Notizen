@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "95977604c73689d5",
+        "id": "ed192f6dd220f3ab",
         "type": "tabs",
         "children": [
           {
-            "id": "72fe621dcbcb7907",
+            "id": "7b2cc2051df1da25",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "aktivitätsKniten.png"
+                "file": "1. UML-Diagramme/Aktivitätsdiagramme/Grundlegende Elemente von Aktivitätsdiagrammen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "aktivitätsKniten"
+              "icon": "lucide-file",
+              "title": "Grundlegende Elemente von Aktivitätsdiagrammen"
             }
           }
         ]
@@ -38,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -50,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "aktivitäts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,50 +165,50 @@
   },
   "active": "deab1a279ebf4b96",
   "lastOpenFiles": [
+    "1. UML-Diagramme/Use-Case-Diagramme/Aufgaben/Blatt04_loesung.pdf",
+    "1. UML-Diagramme/Use-Case-Diagramme/Aufgaben/blatt04.pdf",
+    "1. UML-Diagramme/Use-Case-Diagramme/Theorie/Use-Case-Diagramme.md",
+    "1. UML-Diagramme/UML-Diagramme.md",
+    "1. UML-Diagramme/Aktivitätsdiagramme/_Screenshots/Gabeln_Verbindungen.png",
+    "1. UML-Diagramme/Use-Case-Diagramme/Weitere Nützliche Ressourcen.md",
+    "1. UML-Diagramme/Aktivitätsdiagramme/_Screenshots/aktivitätsKniten.png",
+    "1. UML-Diagramme/Aktivitätsdiagramme/_Screenshots/FlussendKnoten.png",
+    "1. UML-Diagramme/Aktivitätsdiagramme/_Screenshots/Aktivitätsknoten.png",
+    "1. UML-Diagramme/Die Rolle von UML in der Softwareentwicklung.md",
+    "1. UML-Diagramme/Einführung in die Modellierung.md",
+    "1. UML-Diagramme/Grundlegende Konzepte von UML.md",
+    "1. UML-Diagramme/UML in der AP Teil 2.md",
+    "2. Programmierung und Algorithmen/MVC Pattern/Controller.md",
+    "2. Programmierung und Algorithmen/Programmiersprachen/Grundlagen/Typen von Programmiersprachen/Typen von Programmiersprachen.md",
+    "2. Programmierung und Algorithmen/Programmiersprachen/Grundlagen/Compiler und Interpreter/Compiler.md",
+    "2. Programmierung und Algorithmen/Programmiersprachen/Grundlagen/Compiler und Interpreter",
+    "2. Programmierung und Algorithmen/Programmiersprachen/Grundlagen/Hauptkomponenten/Hauptkomponenten einer Programmiersprache.md",
+    "2. Programmierung und Algorithmen/Programmiersprachen/Grundlagen/Typen von Programmiersprachen",
+    "2. Programmierung und Algorithmen/Programmiersprachen/Grundlagen/Einführung/Warum sind Programmiersprachen notwendig.md",
+    "2. Programmierung und Algorithmen/Programmiersprachen/Grundlagen/Einführung/Was sind Programmiersprachen.md",
+    "2. Programmierung und Algorithmen/Programmiersprachen/Grundlagen/Einführung",
+    "2. Programmierung und Algorithmen/Programmiersprachen/Grundlagen/Hauptkomponenten",
+    "1. UML-Diagramme/Klassen-Diagramme/Aufbau von Klassendiagramme.md",
+    "2. Programmierung und Algorithmen/Programmiersprachen/Grundlagen",
     "README.md",
-    "FlussendKnoten.png",
+    "1. UML-Diagramme/Aktivitätsdiagramme/_Screenshots",
+    "2. Programmierung und Algorithmen/Programmiersprachen",
     "Unterrichts Präsi/~$3-Schichten-Architektur.pptx",
-    "Gabeln_Verbindungen.png",
     "1. UML-Diagramme/Aktivitätsdiagramme/Schritt für Schritt zum Aktivitätsdiagramm.md",
     "Unterrichts Präsi/DesignPatternBeispiel.zip",
-    "Unterrichts Präsi/Fachvortrag Verschlüsselung und Hashing.pptx",
-    "Unterrichts Präsi/CleanCode - Teil2.pptx",
-    "Unterrichts Präsi/CleanCode - Teil1.pptx",
-    "Unterrichts Präsi/CleanCode - Teil3.pptx",
-    "Unterrichts Präsi/Design Pattern.pptx",
-    "Unterrichts Präsi/TDD Bowling Kata.pptx",
-    "Unterrichts Präsi/3-Schichten-Architektur.pptx",
-    "Unterrichts Präsi",
     "1. UML-Diagramme/Aktivitätsdiagramme/Grundlegende Elemente von Aktivitätsdiagrammen.md",
-    "Flussende_Aktivitätsemde.png",
-    "Aktivitätsknoten.png",
-    "Entscheidungsknoten.png",
-    "aktivitätsKniten.png",
-    "eine_aktion.png",
+    "1. UML-Diagramme/Aktivitätsdiagramme/_Screenshots/Flussende_Aktivitätsemde.png",
+    "1. UML-Diagramme/Aktivitätsdiagramme/_Screenshots/Entscheidungsknoten.png",
+    "1. UML-Diagramme/Aktivitätsdiagramme/_Screenshots/eine_aktion.png",
     "1. UML-Diagramme/Aktivitätsdiagramme/Unterschiede zu anderen Verhaltensdiagrammen.md",
     "1. UML-Diagramme/Aktivitätsdiagramme/Definition und Zweck.md",
     "1. UML-Diagramme/Aktivitätsdiagramme/Was sind Aktivitätsdiagramme.md",
-    "was_ist_Aktivitätsdiagramm.png",
+    "1. UML-Diagramme/Aktivitätsdiagramme/_Screenshots/was_ist_Aktivitätsdiagramm.png",
     "1. UML-Diagramme/Klassen-Diagramme/Abstrakte Klassen und Schnittstellen.md",
-    "1. UML-Diagramme/Klassen-Diagramme/Aufbau von Klassendiagramme.md",
     "1. UML-Diagramme/Klassen-Diagramme/Fortgeschrittene Konzepte in Klassendiagrammen.md",
     "1. UML-Diagramme/Klassen-Diagramme/Beziehungen/Rollen und Navigationspfeile.md",
     "1. UML-Diagramme/Klassen-Diagramme/Beziehungen/Vererbung.md",
     "1. UML-Diagramme/Klassen-Diagramme/Beziehungen/Aggregation und Komposition.md",
-    "1. UML-Diagramme/Klassen-Diagramme/Beziehungen/Realisierung.md",
-    "1. UML-Diagramme/Klassen-Diagramme/Beziehungen/Multiplizitäten.md",
-    "1. UML-Diagramme/Klassen-Diagramme/Beziehungen/Assoziation.md",
-    "1. UML-Diagramme/Klassen-Diagramme/Hauptelemente von Klassendiagrammen.md",
-    "1. UML-Diagramme/Klassen-Diagramme/Schritt für Schritt zum Klassendiagramm.md",
-    "1. UML-Diagramme/Klassen-Diagramme/Sichtbarkeiten.md",
-    "1. UML-Diagramme/Use-Case-Diagramme/Theorie/Use-Case-Diagramme.md",
-    "1. UML-Diagramme/Use-Case-Diagramme/Weitere Nützliche Ressourcen.md",
-    "Beziehungen.md",
-    "1. UML-Diagramme/Die Rolle von UML in der Softwareentwicklung.md",
-    "3. SQL und Datenbankmodellierung/SQL/SQL Grundlagen.md",
-    "3. SQL und Datenbankmodellierung/SQL/Grundlegende Abfragen (SELECT).md",
-    "1. UML-Diagramme/UML in der AP Teil 2.md",
-    "1. UML-Diagramme/Grundlegende Konzepte von UML.md",
     "1. UML-Diagramme/Klassen-Diagramme/_Bilder/verfeinern und Prüfen.png",
     "1. UML-Diagramme/Klassen-Diagramme/_Bilder/Identifizierung der Beziehungen.png"
   ]

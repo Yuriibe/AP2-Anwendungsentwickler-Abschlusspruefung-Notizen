@@ -1,0 +1,1 @@
+Programmiersprachen sind Formale Sprachen, Diese wurden entwickelt um Computern Anweisungen zu geben welche dieser dann ausführt. Sie basieren auf festgelegten Regeln, die bestimmen, wie Programme geschrieben werden, um Probleme zu lösen oder bestimmte Aufgaben auszuführen.
